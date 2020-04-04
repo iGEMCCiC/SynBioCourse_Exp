@@ -1,3 +1,3 @@
 - [首页](/)
 - [课程](/courses/)
-    - [Course1](/courses/Course1/)
+    - [Course1](/courses/Course1)
